@@ -1,0 +1,12 @@
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const RESET_PRODUCTS = "RESET_PRODUCTS";
+export const RESET_PRODUCT = "RESET_PRODUCT";
+export const GET_PRODUCT = "GET_PRODUCT";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const OPEN_MODAL = "OPEN_MODAL";
+export const CLOSE_MODAL = "CLOSE_MODAL";
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
+export const CLEAR_CART = "CLEAR_CART";
+export const GET_TOTALS = "GET_TOTALS";
